@@ -1,3 +1,7 @@
+<p>
+Hello! My name is Rafie, I'm a 16 years old front-end web developer from Indonesia. And I'm on the way to become the full-stack
+</p>
+
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muraft&theme=dark&background=000000)](https://git.io/streak-stats)
