@@ -1,6 +1,8 @@
-<p>
-Hello! My name is Rafie, I'm a 16 years old front-end web developer from Indonesia. And I'm on the way to become the full-stack
-</p>
+📅 16 years old  
+🇮🇩 Indonesian  
+🏫 Senior High School student  
+🎮 Javascript game developer  
+💻 Begineer full stack web developer
 
 <div align="center">
 
