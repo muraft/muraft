@@ -1,7 +1,7 @@
-📅 16 years old  
+📅 17 years old  
 🇮🇩 Indonesian  
 🏫 Senior High School student  
-🎮 Javascript game developer  
+🟨 Javascript enthusiast  
 💻 Begineer full stack web developer
 
 <div align="center">
